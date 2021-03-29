@@ -1,6 +1,6 @@
-package seg.u3.medico;
+package u3.medico;
 
-import seg.u3.medico.pai.Medico;
+import u3.medico.pai.Medico;
 
 public class Oftalmologista extends Medico{ 
 

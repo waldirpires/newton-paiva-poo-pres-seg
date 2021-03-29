@@ -1,4 +1,4 @@
-package seg.u3.medico;
+package u3.medico;
 
 public class Estagiario extends Funcionario{
 

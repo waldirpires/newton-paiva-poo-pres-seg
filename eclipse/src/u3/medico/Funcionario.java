@@ -1,4 +1,4 @@
-package seg.u3.medico;
+package u3.medico;
 
 public final class Funcionario {
 

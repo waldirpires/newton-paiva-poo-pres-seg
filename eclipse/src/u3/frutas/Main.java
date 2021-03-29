@@ -1,4 +1,4 @@
-package seg.u3.frutas;
+package u3.frutas;
 
 public class Main {
 

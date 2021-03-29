@@ -1,7 +1,10 @@
-package seg.u3.medico.pai;
+package u3.medico.pai;
 
 public class Medico {
 
+    // constante
+    public static final float PI = 3.14f;
+    
     protected String crm; // modificador de acesso para subclasses
 
     /**
